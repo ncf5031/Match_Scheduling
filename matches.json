@@ -1,0 +1,1434 @@
+[
+    {
+        "Match Name": "2025 MKM Precision 2",
+        "Match Date": "FEB 1, 2025",
+        "Match Location": "KENNERDELL, PENNSYLVANIA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Northeast"
+    },
+    {
+        "Match Name": "LEEK Sponsored by SAVAW.org - 2025-1",
+        "Match Date": "FEB 23, 2025",
+        "Match Location": "OSWAYO, PENNSYLVANIA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Northeast"
+    },
+    {
+        "Match Name": "2025 MKM Precision 3",
+        "Match Date": "MAR 8, 2025",
+        "Match Location": "KENNERDELL, PENNSYLVANIA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Northeast"
+    },
+    {
+        "Match Name": "LEEK Sponsored by SAVAW.org - 2025-2",
+        "Match Date": "MAR 16, 2025",
+        "Match Location": "OSWAYO, PENNSYLVANIA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Northeast"
+    },
+    {
+        "Match Name": "2025 MKM Precision 4",
+        "Match Date": "APR 12, 2025",
+        "Match Location": "KENNERDELL, PENNSYLVANIA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Northeast"
+    },
+    {
+        "Match Name": "Bradford County Riflemen - Spring Opener",
+        "Match Date": "APR 13, 2025",
+        "Match Location": "GILLETT, PENNSYLVANIA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Northeast"
+    },
+    {
+        "Match Name": "2025 Finger Lakes @ Olean #1",
+        "Match Date": "APR 19, 2025",
+        "Match Location": "OLEAN, NEW YORK",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Northeast"
+    },
+    {
+        "Match Name": "LEEK Sponsored by SAVAW.org - 2025-3",
+        "Match Date": "APR 27, 2025",
+        "Match Location": "OSWAYO, PENNSYLVANIA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Northeast"
+    },
+    {
+        "Match Name": "W.A.R. Rifles / Geissele",
+        "Match Date": "APR 27, 2025",
+        "Match Location": "TREMONT, PENNSYLVANIA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Northeast"
+    },
+    {
+        "Match Name": "MDPRS #1 MCSA *Qualifier*",
+        "Match Date": "MAY 3, 2025",
+        "Match Location": "LEWISTOWN, PENNSYLVANIA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Northeast"
+    },
+    {
+        "Match Name": "Bradford County Riflemen - May the Forth Be on Target",
+        "Match Date": "MAY 4, 2025",
+        "Match Location": "GILLETT, PENNSYLVANIA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Northeast"
+    },
+    {
+        "Match Name": "2025 Finger Lakes @ Olean #2",
+        "Match Date": "MAY 17, 2025",
+        "Match Location": "OLEAN, NEW YORK",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Northeast"
+    },
+    {
+        "Match Name": "W.A.R. Rifles / Geissele",
+        "Match Date": "MAY 18, 2025",
+        "Match Location": "TREMONT, PENNSYLVANIA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Northeast"
+    },
+    {
+        "Match Name": "MDPRS #2 MGPA",
+        "Match Date": "MAY 25, 2025",
+        "Match Location": "WESTMINSTER, MARYLAND",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Northeast"
+    },
+    {
+        "Match Name": "LEEK Sponsored by SAVAW.org - 2025-4",
+        "Match Date": "MAY 31, 2025 QUALIFIER",
+        "Match Location": "OSWAYO, PENNSYLVANIA",
+        "Qualifier": true,
+        "Type": "Regional",
+        "Region": "Northeast"
+    },
+    {
+        "Match Name": "2025 MKM Precision 5",
+        "Match Date": "JUN 7, 2025",
+        "Match Location": "KENNERDELL, PENNSYLVANIA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Northeast"
+    },
+    {
+        "Match Name": "MDPRS #3 NHRPC",
+        "Match Date": "JUN 8, 2025",
+        "Match Location": "GAP, PENNSYLVANIA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Northeast"
+    },
+    {
+        "Match Name": "2025 Finger Lakes @ Olean #3",
+        "Match Date": "JUN 14, 2025",
+        "Match Location": "OLEAN, NEW YORK",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Northeast"
+    },
+    {
+        "Match Name": "MDPRS #4 MCSA",
+        "Match Date": "JUN 21, 2025",
+        "Match Location": "LEWISTOWN, PENNSYLVANIA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Northeast"
+    },
+    {
+        "Match Name": "Bradford County Riflemen - Summer Mayhem",
+        "Match Date": "JUN 22, 2025 QUALIFIER",
+        "Match Location": "GILLETT, PENNSYLVANIA",
+        "Qualifier": true,
+        "Type": "Regional",
+        "Region": "Northeast"
+    },
+    {
+        "Match Name": "W.A.R. Rifles / Geissele",
+        "Match Date": "JUN 29, 2025",
+        "Match Location": "TREMONT, PENNSYLVANIA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Northeast"
+    },
+    {
+        "Match Name": "MDPRS #5 NHRPC",
+        "Match Date": "JUL 6, 2025",
+        "Match Location": "GAP, PENNSYLVANIA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Northeast"
+    },
+    {
+        "Match Name": "2025 MKM Precision 6",
+        "Match Date": "JUL 12, 2025",
+        "Match Location": "KENNERDELL, PENNSYLVANIA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Northeast"
+    },
+    {
+        "Match Name": "Bradford County Riflemen - Scorching Shootout",
+        "Match Date": "JUL 20, 2025",
+        "Match Location": "GILLETT, PENNSYLVANIA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Northeast"
+    },
+    {
+        "Match Name": "MDPRS #6 MGPA",
+        "Match Date": "JUL 20, 2025",
+        "Match Location": "WESTMINSTER, MARYLAND",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Northeast"
+    },
+    {
+        "Match Name": "W.A.R. Rifles / Geissele",
+        "Match Date": "JUL 27, 2025 QUALIFIER",
+        "Match Location": "TREMONT, PENNSYLVANIA",
+        "Qualifier": true,
+        "Type": "Regional",
+        "Region": "Northeast"
+    },
+    {
+        "Match Name": "2025 Finger Lakes @ Olean #4",
+        "Match Date": "AUG 2, 2025 QUALIFIER",
+        "Match Location": "OLEAN, NEW YORK",
+        "Qualifier": true,
+        "Type": "Regional",
+        "Region": "Northeast"
+    },
+    {
+        "Match Name": "MDPRS #7 MCSA",
+        "Match Date": "AUG 2, 2025",
+        "Match Location": "LEWISTOWN, PENNSYLVANIA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Northeast"
+    },
+    {
+        "Match Name": "Bradford County Riflemen - Summerset Showdown",
+        "Match Date": "AUG 17, 2025",
+        "Match Location": "GILLETT, PENNSYLVANIA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Northeast"
+    },
+    {
+        "Match Name": "W.A.R. Rifles / Geissele",
+        "Match Date": "AUG 24, 2025",
+        "Match Location": "TREMONT, PENNSYLVANIA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Northeast"
+    },
+    {
+        "Match Name": "2025 Finger Lakes @ Olean #5",
+        "Match Date": "SEP 6, 2025",
+        "Match Location": "OLEAN, NEW YORK",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Northeast"
+    },
+    {
+        "Match Name": "MDPRS #9 NHRPC *Qualifier*",
+        "Match Date": "SEP 7, 2025",
+        "Match Location": "GAP, PENNSYLVANIA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Northeast"
+    },
+    {
+        "Match Name": "2025 MKM Precision 7",
+        "Match Date": "SEP 13, 2025 QUALIFIER",
+        "Match Location": "KENNERDELL, PENNSYLVANIA",
+        "Qualifier": true,
+        "Type": "Regional",
+        "Region": "Northeast"
+    },
+    {
+        "Match Name": "W.A.R. RIFLES / GEISSELE",
+        "Match Date": "SEP 14, 2025",
+        "Match Location": "TREMONT, PENNSYLVANIA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Northeast"
+    },
+    {
+        "Match Name": "Bradford County Riflemen - Summer's Last Stand",
+        "Match Date": "SEP 21, 2025",
+        "Match Location": "GILLETT, PENNSYLVANIA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Northeast"
+    },
+    {
+        "Match Name": "MDPRS #10 MGPA",
+        "Match Date": "SEP 28, 2025",
+        "Match Location": "WESTMINSTER, MARYLAND",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Northeast"
+    },
+    {
+        "Match Name": "2025 Northeast Regional Finale",
+        "Match Date": "OCT 4, 2025",
+        "Match Location": "LEWISTOWN, PENNSYLVANIA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Northeast"
+    },
+    {
+        "Match Name": "W.A.R. RIFLES / GEISSELE",
+        "Match Date": "OCT 12, 2025",
+        "Match Location": "TREMONT, PENNSYLVANIA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Northeast"
+    },
+    {
+        "Match Name": "Bradford County Riflemen - Final Strike",
+        "Match Date": "OCT 12, 2025",
+        "Match Location": "GILLETT, PENNSYLVANIA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Northeast"
+    },
+    {
+        "Match Name": "Ralston its a new year",
+        "Match Date": "JAN 25, 2025",
+        "Match Location": "RALSTON, OKLAHOMA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "JANUARY Monthly Match",
+        "Match Date": "JAN 26, 2025",
+        "Match Location": "DECATUR, TEXAS",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "STX PRECISION FEBRUARY",
+        "Match Date": "FEB 1, 2025",
+        "Match Location": "",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Anderson Outlaw PRS February 2025",
+        "Match Date": "FEB 1, 2025",
+        "Match Location": "ANDERSON, TEXAS",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Freestone Shooting Complex PRS Regional",
+        "Match Date": "FEB 1, 2025",
+        "Match Location": "WORTHAM, TEXAS",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Walker county precision february center fire match",
+        "Match Date": "FEB 2, 2025",
+        "Match Location": "HUNTSVILLE, TEXAS",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "PRS Central Region",
+        "Match Date": "FEB 8, 2025",
+        "Match Location": "NINNEKAH, OKLAHOMA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "deleted",
+        "Match Date": "FEB 8, 2025",
+        "Match Location": "LITTLE ROCK, ARKANSAS",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "ATX Precision Feb 2025 Match",
+        "Match Date": "FEB 8, 2025",
+        "Match Location": "BURNET, TEXAS",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "TX Precision Matches February 2025 Precision Rifle Match",
+        "Match Date": "FEB 15, 2025",
+        "Match Location": "COLLEGE STATION, TEXAS",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Caprock Rifle Club February PRS Regional",
+        "Match Date": "FEB 15, 2025 QUALIFIER",
+        "Match Location": "BROWNFIELD, TEXAS",
+        "Qualifier": true,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Regional PRS Centerfire Match at White Oak Creek",
+        "Match Date": "FEB 22, 2025",
+        "Match Location": "",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Ralston PRS its cold outside",
+        "Match Date": "FEB 22, 2025 QUALIFIER",
+        "Match Location": "RALSTON, OKLAHOMA",
+        "Qualifier": true,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "FEBRUARY Monthly Match",
+        "Match Date": "FEB 23, 2025 QUALIFIER",
+        "Match Location": "DECATUR, TEXAS",
+        "Qualifier": true,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Anderson Outlaw PRS March 2025",
+        "Match Date": "MAR 1, 2025",
+        "Match Location": "ANDERSON, TEXAS",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "PRS Central Region",
+        "Match Date": "MAR 1, 2025",
+        "Match Location": "NINNEKAH, OKLAHOMA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Freestone Shooting Complex PRS Regional",
+        "Match Date": "MAR 1, 2025",
+        "Match Location": "",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "STX PRECISION MARCH",
+        "Match Date": "MAR 1, 2025",
+        "Match Location": "",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Twisted Barrel Precision Regional Match",
+        "Match Date": "MAR 8, 2025",
+        "Match Location": "LITTLE ROCK, ARKANSAS",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "TX Precision Matches February 2025 Precision Rifle Match",
+        "Match Date": "MAR 8, 2025 QUALIFIER",
+        "Match Location": "COLLEGE STATION, TEXAS",
+        "Qualifier": true,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Gravestone Precision MARCH Monthly Centerfire",
+        "Match Date": "MAR 15, 2025 QUALIFIER",
+        "Match Location": "LIPAN, TEXAS",
+        "Qualifier": true,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "PRS Central Region",
+        "Match Date": "MAR 22, 2025",
+        "Match Location": "CLINTON, OKLAHOMA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "MARCH Monthly Match",
+        "Match Date": "MAR 23, 2025",
+        "Match Location": "DECATUR, TEXAS",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Ralston time marches on Mar 29, 2025",
+        "Match Date": "MAR 29, 2025",
+        "Match Location": "RALSTON, OKLAHOMA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "ATX Precision Mar 2025 Match",
+        "Match Date": "MAR 29, 2025",
+        "Match Location": "BURNET, TEXAS",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Regional PRS Centerfire Match at White Oak Creek",
+        "Match Date": "APR 5, 2025",
+        "Match Location": "",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "PRS Central Region",
+        "Match Date": "APR 5, 2025 QUALIFIER",
+        "Match Location": "NINNEKAH, OKLAHOMA",
+        "Qualifier": true,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Anderson Outlaw PRS April 2025",
+        "Match Date": "APR 5, 2025",
+        "Match Location": "ANDERSON, TEXAS",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Freestone Shooting Complex PRS Regional",
+        "Match Date": "APR 5, 2025",
+        "Match Location": "",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Walker county precision center fire club match",
+        "Match Date": "APR 6, 2025",
+        "Match Location": "HUNTSVILLE, TEXAS",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Twisted Barrel Precision Regional Match",
+        "Match Date": "APR 12, 2025 QUALIFIER",
+        "Match Location": "LITTLE ROCK, ARKANSAS",
+        "Qualifier": true,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Caprock Rifle Club April PRS Regional",
+        "Match Date": "APR 19, 2025",
+        "Match Location": "BROWNFIELD, TEXAS",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "STX PRECISION APRIL",
+        "Match Date": "APR 19, 2025",
+        "Match Location": "",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Gravestone Precision APRIL Monthly Centerfire",
+        "Match Date": "APR 19, 2025",
+        "Match Location": "LIPAN, TEXAS",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "APRIL Monthly Match",
+        "Match Date": "APR 27, 2025",
+        "Match Location": "DECATUR, TEXAS",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Freestone Shooting Complex PRS Regional",
+        "Match Date": "MAY 3, 2025",
+        "Match Location": "WORTHAM, TEXAS",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Twisted Barrel Precision Regional Match",
+        "Match Date": "MAY 10, 2025",
+        "Match Location": "LITTLE ROCK, ARKANSAS",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Anderson Outlaw PRS May 2025",
+        "Match Date": "MAY 10, 2025 QUALIFIER",
+        "Match Location": "ANDERSON, TEXAS",
+        "Qualifier": true,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "STX PRECISION MAY",
+        "Match Date": "MAY 17, 2025",
+        "Match Location": "",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Gravestone Precision MAY Monthly Centerfire",
+        "Match Date": "MAY 17, 2025",
+        "Match Location": "LIPAN, TEXAS",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "PRS Central Region",
+        "Match Date": "MAY 24, 2025 QUALIFIER",
+        "Match Location": "CLINTON, OKLAHOMA",
+        "Qualifier": true,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "MAY Monthly Match",
+        "Match Date": "MAY 25, 2025",
+        "Match Location": "DECATUR, TEXAS",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Ralston PRS May 31, 2025",
+        "Match Date": "MAY 31, 2025",
+        "Match Location": "RALSTON, OKLAHOMA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Freestone Shooting Complex PRS Regional",
+        "Match Date": "JUN 7, 2025",
+        "Match Location": "",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "PRS Central Region",
+        "Match Date": "JUN 7, 2025",
+        "Match Location": "NINNEKAH, OKLAHOMA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "STX PRECISION JUNE",
+        "Match Date": "JUN 7, 2025",
+        "Match Location": "",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Twisted Barrel Precision Regional Match",
+        "Match Date": "JUN 14, 2025 QUALIFIER",
+        "Match Location": "LITTLE ROCK, ARKANSAS",
+        "Qualifier": true,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "TX Precision Matches June 2025 Precision Rifle Match",
+        "Match Date": "JUN 14, 2025",
+        "Match Location": "COLLEGE STATION, TEXAS",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Caprock Rifle Club June PRS Regional",
+        "Match Date": "JUN 14, 2025",
+        "Match Location": "BROWNFIELD, TEXAS",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "PRS Central Region",
+        "Match Date": "JUN 21, 2025",
+        "Match Location": "CLINTON, OKLAHOMA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Gravestone Precision JUNE Monthly Centerfire",
+        "Match Date": "JUN 21, 2025",
+        "Match Location": "LIPAN, TEXAS",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Regional PRS Centerfire Match at White Oak Creek",
+        "Match Date": "JUN 28, 2025",
+        "Match Location": "",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Ralston summer is here june 28, 2025",
+        "Match Date": "JUN 28, 2025",
+        "Match Location": "RALSTON, OKLAHOMA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "JUNE Monthly Match",
+        "Match Date": "JUN 29, 2025 QUALIFIER",
+        "Match Location": "DECATUR, TEXAS",
+        "Qualifier": true,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Freestone Shooting Complex PRS Regional",
+        "Match Date": "JUL 5, 2025",
+        "Match Location": "",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "PRS Central Region",
+        "Match Date": "JUL 5, 2025",
+        "Match Location": "NINNEKAH, OKLAHOMA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "STX PRECISION JULY",
+        "Match Date": "JUL 5, 2025",
+        "Match Location": "",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Anderson Outlaw PRS July 2025",
+        "Match Date": "JUL 5, 2025",
+        "Match Location": "ANDERSON, TEXAS",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "TX Precision Matches July 2025 Precision Rifle Match",
+        "Match Date": "JUL 12, 2025",
+        "Match Location": "COLLEGE STATION, TEXAS",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Gravestone Precision JULY Monthly Centerfire",
+        "Match Date": "JUL 19, 2025",
+        "Match Location": "LIPAN, TEXAS",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Caprock Rifle Club July PRS Regional",
+        "Match Date": "JUL 19, 2025 QUALIFIER",
+        "Match Location": "BROWNFIELD, TEXAS",
+        "Qualifier": true,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "TX Precision Matches July 2025 22 LR Match",
+        "Match Date": "JUL 19, 2025 QUALIFIER",
+        "Match Location": "COLLEGE STATION, TEXAS",
+        "Qualifier": true,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Regional PRS Centerfire Match at White Oak Creek",
+        "Match Date": "AUG 9, 2025 QUALIFIER",
+        "Match Location": "",
+        "Qualifier": true,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "TX Precision Matches August 2025 Precision Rifle Match",
+        "Match Date": "AUG 9, 2025",
+        "Match Location": "COLLEGE STATION, TEXAS",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "STX PRECISION AUGUST",
+        "Match Date": "AUG 16, 2025",
+        "Match Location": "",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Gravestone Precision AUGUST Monthly Centerfire",
+        "Match Date": "AUG 16, 2025",
+        "Match Location": "LIPAN, TEXAS",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Ralston fall is coming Aug 30, 2025",
+        "Match Date": "AUG 30, 2025 QUALIFIER",
+        "Match Location": "RALSTON, OKLAHOMA",
+        "Qualifier": true,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "STX PRECISION SEPTEMBER",
+        "Match Date": "SEP 6, 2025",
+        "Match Location": "",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "PRS Central Region",
+        "Match Date": "SEP 6, 2025 QUALIFIER",
+        "Match Location": "NINNEKAH, OKLAHOMA",
+        "Qualifier": true,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Anderson Outlaw PRS September 2025",
+        "Match Date": "SEP 6, 2025",
+        "Match Location": "ANDERSON, TEXAS",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "deleted",
+        "Match Date": "SEP 13, 2025",
+        "Match Location": "LITTLE ROCK, ARKANSAS",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "PRS Central Region",
+        "Match Date": "SEP 20, 2025",
+        "Match Location": "CLINTON, OKLAHOMA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Gravestone Precision SEPTEMBER Monthly Centerfire",
+        "Match Date": "SEP 20, 2025",
+        "Match Location": "LIPAN, TEXAS",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Ralston finale sept 27, 2025",
+        "Match Date": "SEP 27, 2025",
+        "Match Location": "RALSTON, OKLAHOMA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "PRS Central Region",
+        "Match Date": "OCT 4, 2025",
+        "Match Location": "NINNEKAH, OKLAHOMA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Anderson Outlaw PRS October 2025 - Club Finale",
+        "Match Date": "OCT 4, 2025 QUALIFIER",
+        "Match Location": "ANDERSON, TEXAS",
+        "Qualifier": true,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Freestone Shooting Complex PRS Regional",
+        "Match Date": "OCT 4, 2025",
+        "Match Location": "",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "STX PRECISION OCTOBER",
+        "Match Date": "OCT 4, 2025",
+        "Match Location": "",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Leupold Fall Classic - TX Precision 2025 Precision Rifle Match",
+        "Match Date": "OCT 11, 2025",
+        "Match Location": "COLLEGE STATION, TEXAS",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Twisted Barrel Precision Regional Match",
+        "Match Date": "OCT 11, 2025",
+        "Match Location": "LITTLE ROCK, ARKANSAS",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Gravestone Precision OCTOBER Monthly Centerfire",
+        "Match Date": "OCT 18, 2025",
+        "Match Location": "LIPAN, TEXAS",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "PRS Central Region",
+        "Match Date": "OCT 18, 2025",
+        "Match Location": "CLINTON, OKLAHOMA",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Seasonal Club FINALE Centerfire Match at White Oak Creek",
+        "Match Date": "OCT 25, 2025 QUALIFIER",
+        "Match Location": "",
+        "Qualifier": true,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Freestone Shooting Complex PRS Regional",
+        "Match Date": "NOV 1, 2025",
+        "Match Location": "",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "STX PRECISION NOVEMBER",
+        "Match Date": "NOV 1, 2025",
+        "Match Location": "",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "TX Precision Matches November 2025 Precision Rifle Match",
+        "Match Date": "NOV 8, 2025",
+        "Match Location": "COLLEGE STATION, TEXAS",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Gravestone Precision NOVEMBER Monthly Centerfire",
+        "Match Date": "NOV 15, 2025",
+        "Match Location": "LIPAN, TEXAS",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Freestone Shooting Complex PRS Regional",
+        "Match Date": "DEC 6, 2025",
+        "Match Location": "",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "STX PRECISION 2025 CLUB FINALE",
+        "Match Date": "DEC 6, 2025",
+        "Match Location": "",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "TX Precision Matches December 2025 Precision Rifle Match",
+        "Match Date": "DEC 13, 2025",
+        "Match Location": "COLLEGE STATION, TEXAS",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "Gravestone Precision DECEMBER Monthly Centerfire",
+        "Match Date": "DEC 20, 2025",
+        "Match Location": "LIPAN, TEXAS",
+        "Qualifier": false,
+        "Type": "Regional",
+        "Region": "Central"
+    },
+    {
+        "Match Name": "2025 Leupold Steel Classic PRS Match",
+        "Match Date": "Jan 25, 2025",
+        "Match Location": "Navasota, Texas",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 Gravestone Precision presented by SilencerCo",
+        "Match Date": "Feb 8, 2025",
+        "Match Location": "Lipan, Texas",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 MDT Frostbite",
+        "Match Date": "Feb 22, 2025",
+        "Match Location": "Butlerville, Indiana",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 Clay's Cartridge Company Classic",
+        "Match Date": "Mar 1, 2025",
+        "Match Location": "Leedey, Oklahoma",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 MPA Spring Shootout",
+        "Match Date": "Mar 8, 2025",
+        "Match Location": "Swainsboro, Georgia",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 Cashout Chaos",
+        "Match Date": "Mar 8, 2025",
+        "Match Location": "Avenal, California",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 Southern Iowa Showdown presented by SCHEELS",
+        "Match Date": "Mar 15, 2025",
+        "Match Location": "Diagonal, Iowa",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 Snake River Standoff Presented by Lone Peak",
+        "Match Date": "Mar 22, 2025",
+        "Match Location": "Bliss, Idaho",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 VPRC Rifleman's Revival",
+        "Match Date": "Mar 22, 2025",
+        "Match Location": "Rocky Mount, Virginia",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 B&T Ind. LLC Box Canyon Showdown....Suppressors Only!",
+        "Match Date": "Apr 5, 2025",
+        "Match Location": "Medicine Lodge, Kansas",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 Koenig-Ruger PRC",
+        "Match Date": "Apr 12, 2025",
+        "Match Location": "Grand Junction, Colorado",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 Pro Series at the Clinton House Plantation",
+        "Match Date": "Apr 12, 2025",
+        "Match Location": "Clinton, South Carolina",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 Alpha Munitions Nut Crusher",
+        "Match Date": "Apr 26, 2025",
+        "Match Location": "Price, Utah",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 Short Action Customs Steel Challenge",
+        "Match Date": "Apr 26, 2025",
+        "Match Location": "Benge, Washington",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 Leupold Best In Texas PRS Match",
+        "Match Date": "Apr 26, 2025",
+        "Match Location": "Navasota, Texas",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 Okie Showdown presented by Foundation Stocks",
+        "Match Date": "May 3, 2025",
+        "Match Location": "Ninnekah, Oklahoma",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 Vortex Vengeance",
+        "Match Date": "May 3, 2025",
+        "Match Location": "Kennerdell, Pennsylvania",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 A-Team PRC",
+        "Match Date": "May 3, 2025",
+        "Match Location": "Carbon Hill, Alabama",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 Parma Precision Rifle Rumble VII",
+        "Match Date": "May 17, 2025",
+        "Match Location": "Parma, Idaho",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 K&M Kahles Precision Rifle Competition",
+        "Match Date": "May 24, 2025",
+        "Match Location": "Finger, Tennessee",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 SAPRL - Cactus Cup",
+        "Match Date": "May 31, 2025",
+        "Match Location": "Medicine Hat, Alberta",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 Garmin King of Coal Canyon",
+        "Match Date": "May 31, 2025",
+        "Match Location": "Raton, New Mexico",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 Pigg River Precision H.A.M. Presented by Leupold Optics",
+        "Match Date": "Jun 7, 2025",
+        "Match Location": "Rocky Mount, Virginia",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 MDT Barrel Burner at The Lead Farm",
+        "Match Date": "Jun 7, 2025",
+        "Match Location": "Prosser, Washington",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 Bullet Central Northern Lights Classic",
+        "Match Date": "Jun 7, 2025",
+        "Match Location": "Aneta, North Dakota",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 Hodgdon Punisher Positional",
+        "Match Date": "Jun 21, 2025",
+        "Match Location": "Conway Springs, Kansas",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 Hornady Precision Rifle Challenge",
+        "Match Date": "Jun 27, 2025",
+        "Match Location": "Woodruff, Utah",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 Apex Rocky Mountain Challenge Qualifier",
+        "Match Date": "Jul 12, 2025",
+        "Match Location": "Millarville, Alberta",
+        "Qualifier": true,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 Twisted Barrel Precision Scorcher III by Leupold",
+        "Match Date": "Jul 12, 2025",
+        "Match Location": "Little Rock, Arkansas",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 Sheepdog Showdown",
+        "Match Date": "Jul 19, 2025",
+        "Match Location": "Catskill, New York",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 THS Steel Challenge",
+        "Match Date": "Jul 19, 2025",
+        "Match Location": "Fort Pierre, South Dakota",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 S.A.C. Sizzler",
+        "Match Date": "Jul 26, 2025",
+        "Match Location": "Butlerville, Indiana",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 Pancake Lake Open Presented by Engage Precision",
+        "Match Date": "Jul 26, 2025",
+        "Match Location": "",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 Silent Night presented by SilencerCo",
+        "Match Date": "Aug 2, 2025",
+        "Match Location": "Ninnekah, Oklahoma",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 Hoppe's Hustle",
+        "Match Date": "Aug 9, 2025",
+        "Match Location": "Pleasant Hill, Missouri",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 Peterson Cartridge Challenge",
+        "Match Date": "Aug 9, 2025",
+        "Match Location": "Kennerdell, Pennsylvania",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 Manitoba Smoker",
+        "Match Date": "Aug 16, 2025",
+        "Match Location": "Wawanesa, Manitoba",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 Magnolia Meltdown",
+        "Match Date": "Aug 16, 2025",
+        "Match Location": "Carthage, Mississippi",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 Impact-Foundation PRC",
+        "Match Date": "Aug 23, 2025",
+        "Match Location": "Wetumka, Oklahoma",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 MDT Midsummer Madness",
+        "Match Date": "Aug 30, 2025",
+        "Match Location": "Lower Nicola, British Columbia",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 Federal Gold Medal Match",
+        "Match Date": "Sep 6, 2025",
+        "Match Location": "Carbon Hill, Alabama",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 West Coast Redemption",
+        "Match Date": "Sep 13, 2025",
+        "Match Location": "Bend, Oregon",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 W.A.R. Rifles Shootout",
+        "Match Date": "Sep 20, 2025",
+        "Match Location": "Tremont, Pennsylvania",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 Twisted Barrel Precision",
+        "Match Date": "Sep 20, 2025",
+        "Match Location": "Little Rock, Arkansas",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 Bushnell Tactical GAP Grind Pro Am",
+        "Match Date": "Oct 4, 2025",
+        "Match Location": "Finger, Tennessee",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 KRG Windbreaker by Defiance",
+        "Match Date": "Oct 4, 2025",
+        "Match Location": "Wilbur, Washington",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 SAC Sharpshooter Showdown",
+        "Match Date": "Oct 11, 2025",
+        "Match Location": "Cambria, California",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 MPA Fall Shootout",
+        "Match Date": "Oct 11, 2025",
+        "Match Location": "Swainsboro, Georgia",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    },
+    {
+        "Match Name": "2025 PRS PRO SERIES FINALE PRESENTED BY HORNADY",
+        "Match Date": "Nov 1, 2025",
+        "Match Location": "Tremont, Pennsylvania",
+        "Qualifier": false,
+        "Type": "National",
+        "Region": ""
+    }
+]
